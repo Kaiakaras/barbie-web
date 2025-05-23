@@ -6,13 +6,14 @@ A responsive Barbie themed menu page. Delightful scrolls.
 An aesthetically pleasing webpage in Barbie Theme. Using HTML, CSS. Keywords: web design, web development, UI/UX, user-friendly, responsive.
 
 ## See it on Desktop devices:
-![Preview png](https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/desktop.png)
-![Preview png](https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/desktop-min.png)
+
+<img src="https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/desktop.png" width="500" alt="preview"/>
+<img src="https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/desktop-min.png" width="500" alt="preview"/>
 
 
 ## See it shrink & respond to Mobile/ Tablet devices:
-![Preview png](https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/tablet.png)
-![Preview png](https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/netbook.png)
+<img src="https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/tablet.png" width="500" alt="preview"/>
+<img src="https://github.com/Kaiakaras/barbie-web/blob/main/barbie-page/images/netbook.png" width="500" alt="preview"/>
 
 
 ## Features:
