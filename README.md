@@ -1,4 +1,4 @@
-# barbie-web
+# Barbie Webpage
 A responsive Barbie themed menu page. Delightful scrolls.
 
 ## About
